@@ -8,6 +8,11 @@ versie: 0.1
 > Dit bestand vormt de basis van alle schrijfstijlregels binnen ISOPROC.
 > Taal- en regiospecifieke bestanden verwijzen naar dit document en vullen het aan.
 
+## Toepassing van deze gids
+
+- Gebruik dit document nooit op zichzelf: pas de regels altijd toe samen met het relevante taalbestand (`nl.md` of `fr.md`) en, indien van toepassing, het bijbehorende regiobestand (zoals `nl_BE.md`, `nl_NL.md` of `fr_BE.md`).
+- Bij verschillen of extra nuance in taal- of regiobestanden gelden die aanvullingen voor die taal/regio, bovenop deze algemene basisregels.
+
 ## Conflict Resolution
 
 1. Merknaam schrijfwijze > alle andere regels
